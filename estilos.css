@@ -1,0 +1,12 @@
+p{
+   color: red;
+   width: 300px;
+}
+
+h1{
+   border: 1px solid black;
+   padding: 5px;
+   margin: 30px;
+   font-weight: bold;
+   color: grey;
+}
